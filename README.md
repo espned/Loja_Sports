@@ -1,2 +1,2 @@
 # Loja_Sports
-Front com foco em Sports
+Front-End com foco em Sports
